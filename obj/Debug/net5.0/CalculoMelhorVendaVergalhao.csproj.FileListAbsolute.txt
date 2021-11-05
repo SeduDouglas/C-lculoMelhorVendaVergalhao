@@ -1,0 +1,16 @@
+C:\dev\private\CalculoMelhorVendaVergalhao\obj\Debug\net5.0\CalculoMelhorVendaVergalhao.csproj.AssemblyReference.cache
+C:\dev\private\CalculoMelhorVendaVergalhao\obj\Debug\net5.0\CalculoMelhorVendaVergalhao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\private\CalculoMelhorVendaVergalhao\obj\Debug\net5.0\CalculoMelhorVendaVergalhao.AssemblyInfoInputs.cache
+C:\dev\private\CalculoMelhorVendaVergalhao\obj\Debug\net5.0\CalculoMelhorVendaVergalhao.AssemblyInfo.cs
+C:\dev\private\CalculoMelhorVendaVergalhao\obj\Debug\net5.0\CalculoMelhorVendaVergalhao.csproj.CoreCompileInputs.cache
+C:\dev\private\CalculoMelhorVendaVergalhao\bin\Debug\net5.0\CalculoMelhorVendaVergalhao.exe
+C:\dev\private\CalculoMelhorVendaVergalhao\bin\Debug\net5.0\CalculoMelhorVendaVergalhao.deps.json
+C:\dev\private\CalculoMelhorVendaVergalhao\bin\Debug\net5.0\CalculoMelhorVendaVergalhao.runtimeconfig.json
+C:\dev\private\CalculoMelhorVendaVergalhao\bin\Debug\net5.0\CalculoMelhorVendaVergalhao.runtimeconfig.dev.json
+C:\dev\private\CalculoMelhorVendaVergalhao\bin\Debug\net5.0\CalculoMelhorVendaVergalhao.dll
+C:\dev\private\CalculoMelhorVendaVergalhao\bin\Debug\net5.0\ref\CalculoMelhorVendaVergalhao.dll
+C:\dev\private\CalculoMelhorVendaVergalhao\bin\Debug\net5.0\CalculoMelhorVendaVergalhao.pdb
+C:\dev\private\CalculoMelhorVendaVergalhao\obj\Debug\net5.0\CalculoMelhorVendaVergalhao.dll
+C:\dev\private\CalculoMelhorVendaVergalhao\obj\Debug\net5.0\ref\CalculoMelhorVendaVergalhao.dll
+C:\dev\private\CalculoMelhorVendaVergalhao\obj\Debug\net5.0\CalculoMelhorVendaVergalhao.pdb
+C:\dev\private\CalculoMelhorVendaVergalhao\obj\Debug\net5.0\CalculoMelhorVendaVergalhao.genruntimeconfig.cache
