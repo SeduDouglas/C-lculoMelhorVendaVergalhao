@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\douglas.silva\\.nuget\\packages\\": {}
+    "C:\\Users\\dougl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\private\\CalculoMelhorVendaVergalhao\\CalculoMelhorVendaVergalhao.csproj",
+      "projectUniqueName": "D:\\CalculoMelhorVendaVergalhao\\CalculoMelhorVendaVergalhao.csproj",
       "projectName": "CalculoMelhorVendaVergalhao",
-      "projectPath": "C:\\dev\\private\\CalculoMelhorVendaVergalhao\\CalculoMelhorVendaVergalhao.csproj",
-      "packagesPath": "C:\\Users\\douglas.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\private\\CalculoMelhorVendaVergalhao\\obj\\",
+      "projectPath": "D:\\CalculoMelhorVendaVergalhao\\CalculoMelhorVendaVergalhao.csproj",
+      "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
+      "outputPath": "D:\\CalculoMelhorVendaVergalhao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\douglas.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

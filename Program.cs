@@ -9,11 +9,16 @@ namespace CalculoMelhorVendaVergalhao
         {
             string entrada = Console.ReadLine();
 
-            var entradaTratada = entrada.Split(',').ToList().ConvertAll(x => int.Parse(x.Trim())).ToList();
+            var entradaTratada = entrada.Replace("{", string.Empty)
+                                        .Replace("}", string.Empty)
+                                        .Split(',')
+                                        .ToList()
+                                        .ConvertAll(x => int.Parse(x.Trim()))
+                                        .ToList();
             
             Precos precos = new Precos(entradaTratada);
 
-            Console.WriteLine(precos.MelhorVenda);
+            Console.WriteLine(precos.TextoQuantidadesMelhorVenda);
         }
     }
 }
